@@ -4,6 +4,13 @@
 
 This repository documents my **data-construction contribution** to a group university assignment. The wider team project examined municipal characteristics in relation to unemployment; **my work focused on organizing and preparing the analytical dataset**, not on developing the team's clustering or prediction models.
 
+## Explore My Work
+
+- 📊 [View MATLAB Data Construction Report](https://diep-truong35.github.io/finland-municipality-data-construction/matlab/Data_construction.html)
+- 💻 [MATLAB Live Script](matlab/Data_construction.mlx)
+- 📁 [Input Datasets](data/input/)
+- 📄 [Final Structured Dataset](data/processed/Municipal_key_figures_final.csv)
+
 ## Project overview
 
 - **Data source:** Statistics Finland municipal indicators and enterprise-establishment statistics, supplied for this workflow as preprocessed Excel files.
