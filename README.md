@@ -55,17 +55,19 @@ The target and predictors were **prepared for the team**; this repository does n
 ## Repository structure
 
 ```text
+
 finland-municipality-data-construction/
 ├── README.md
 ├── matlab/
-│   └── Data_construction.mlx
+│   ├── Data_construction.mlx
+│   └── Data_construction.html
 └── data/
     ├── input/
     │   ├── Establishments.xlsx
     │   └── Municipal_key_figures.xlsx
     └── processed/
-        ├── Municipal_key_figures_final.csv
-        └── Municipal_key_figures_final.xlsx
+        └── Municipal_key_figures_final.csv
+
 ```
 
 ## Reproducing the MATLAB data preparation
